@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\\u0412\u0442\u043E\u0440\u0430\u044F_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prack2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C8C7C7-8DFC-4B3A-AF90-072984D2C05A}|prack2\\prack2.vcxproj|Z:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\\u0412\u0442\u043E\u0440\u0430\u044F_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prack2\\prack2\\prack2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2C8C7C7-8DFC-4B3A-AF90-072984D2C05A}|prack2\\prack2.vcxproj|solutionrelative:prack2\\prack2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E4CA40-4948-4813-B0BD-182EBC6400AE}|prack2_2\\prack2_2.vcxproj|Z:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\\u0412\u0442\u043E\u0440\u0430\u044F_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prack2\\prack2_2\\prack2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0E4CA40-4948-4813-B0BD-182EBC6400AE}|prack2_2\\prack2_2.vcxproj|solutionrelative:prack2_2\\prack2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D075EBC6-09F1-4AEB-863E-0FE170EA5F7E}|prack2_#\\prack2_#.vcxproj|Z:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\\u0412\u0442\u043E\u0440\u0430\u044F_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prack2\\prack2_#\\prack2_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D075EBC6-09F1-4AEB-863E-0FE170EA5F7E}|prack2_#\\prack2_#.vcxproj|solutionrelative:prack2_#\\prack2_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE183DB9-2D87-4F42-937C-A908BBE3303D}|prack2_4\\prack2_4.vcxproj|Z:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\\u0412\u0442\u043E\u0440\u0430\u044F_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prack2\\prack2_4\\prack2_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE183DB9-2D87-4F42-937C-A908BBE3303D}|prack2_4\\prack2_4.vcxproj|solutionrelative:prack2_4\\prack2_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "prack2_4.cpp",
+              "DocumentMoniker": "Z:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\\u0412\u0442\u043E\u0440\u0430\u044F_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prack2\\prack2_4\\prack2_4.cpp",
+              "RelativeDocumentMoniker": "prack2_4\\prack2_4.cpp",
+              "ToolTip": "Z:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\\u0412\u0442\u043E\u0440\u0430\u044F_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prack2\\prack2_4\\prack2_4.cpp",
+              "RelativeToolTip": "prack2_4\\prack2_4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-03T12:26:29.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "prack2_3.cpp",
+              "DocumentMoniker": "Z:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\\u0412\u0442\u043E\u0440\u0430\u044F_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prack2\\prack2_#\\prack2_3.cpp",
+              "RelativeDocumentMoniker": "prack2_#\\prack2_3.cpp",
+              "ToolTip": "Z:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\\u0412\u0442\u043E\u0440\u0430\u044F_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prack2\\prack2_#\\prack2_3.cpp",
+              "RelativeToolTip": "prack2_#\\prack2_3.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-03T12:26:20.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "prack2_2.cpp",
+              "DocumentMoniker": "Z:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\\u0412\u0442\u043E\u0440\u0430\u044F_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prack2\\prack2_2\\prack2_2.cpp",
+              "RelativeDocumentMoniker": "prack2_2\\prack2_2.cpp",
+              "ToolTip": "Z:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\\u0412\u0442\u043E\u0440\u0430\u044F_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prack2\\prack2_2\\prack2_2.cpp",
+              "RelativeToolTip": "prack2_2\\prack2_2.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-03T12:26:01.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prack2.cpp",
+              "DocumentMoniker": "Z:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\\u0412\u0442\u043E\u0440\u0430\u044F_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prack2\\prack2\\prack2.cpp",
+              "RelativeDocumentMoniker": "prack2\\prack2.cpp",
+              "ToolTip": "Z:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\\u0412\u0442\u043E\u0440\u0430\u044F_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prack2\\prack2\\prack2.cpp",
+              "RelativeToolTip": "prack2\\prack2.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-03T12:25:49.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

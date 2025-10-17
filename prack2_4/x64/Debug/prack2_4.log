@@ -1,0 +1,3 @@
+﻿  prack2_4.cpp
+C:\ЕП\prack2\prack2\prack2_4\prack2_4.cpp(67,34): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  prack2_4.vcxproj -> C:\ЕП\prack2\prack2\x64\Debug\prack2_4.exe
